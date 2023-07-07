@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    paddin: 0;
+    list-style: none;
+}
+
+body {
+    color: #022cff;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 12px;
+    margin: 10px 0 0 25px;
+}
+
+.titlecv {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    padding: 10px;  
+}
+
+.profileimg {
+    width: 140px;
+    height: 140px;
+    margin: 15px;
+    border-radius: 60%;
+    box-shadow: 0 0 15px #022cff;
+}
+
+.icons {
+    margin: 0px 95px;
+}
+
+.thematicbreak {
+    
+}
+
+.footer {
+    text-align: right;
+}
